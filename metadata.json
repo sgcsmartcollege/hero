@@ -1,0 +1,7 @@
+{
+  "name": "AuraWalls",
+  "description": "A high-performance dynamic wallpaper application featuring curated collections, mood-based discovery, and high-resolution previews.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
